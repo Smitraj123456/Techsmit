@@ -59,7 +59,7 @@ echo -e "$red
 ░░░██║░░░███████╗╚█████╔╝██║░╚███║╚█████╔╝
 ░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚══╝░╚════╝░                               v 1.3$rset"
 echo " "                                                          
-echo -e "$red                                ▶ Coded by$grn Raj Snitraj $red ◀$rset"
+echo -e "$red                                ▶ Coded by$grn Raj Smitraj $red ◀$rset"
 echo -e "$red                                ⫸$ylo Tecno Devloper $red ⫷$rset"
 echo -e "$red                          ⫸$grn https://YouTube.com/channel/UChwd0IfIihSZdigXLeakAwA $red⫷$rset"
 echo " "
