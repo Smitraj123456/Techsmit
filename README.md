@@ -1,5 +1,5 @@
 
-M-wiz is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
+Techsmit is a bash based script which is officially made for metasploit-framework users of termux from this tool in just one click you can install metasploit, repair it, update it, and backup up it and lot more. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON :
 
@@ -73,16 +73,16 @@ __SUBSCRIBE__ :
 - From this option you can subscribe channel.
 
 __FOLLOW__ :
-- From this option you can follow technical mundeer
+- From this option you can follow tecno devloper
 
 __EXIT__ :
-- From this option you can exit from m-wiz tool
+- From this option you can exit from Techsmit tool
 
 ## SCREEN SHOTS [Termux]
 
 
 ## WATCH VIDEO [Termux]
-technical mundeer 
-## CONNECT WITH US :
+TECNO DEVLOPER 
+## CONNECT WITH US : #######458
 
 ## BUY ME A COFFEE :
