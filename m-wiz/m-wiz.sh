@@ -1,4 +1,4 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
+#SCRIPT BY RAJ SMITRAJ DONT TRY TO COPY OR MODIFY 
 #M-WIZ TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
@@ -50,17 +50,18 @@ clear
 echo " "
 echo " "
 echo -e "$red
-                       ███╗   ███╗      ██╗    ██╗██╗███████╗
-                       ████╗ ████║      ██║    ██║██║╚══███╔╝
-                       ██╔████╔██║█████╗██║ █╗ ██║██║  ███╔╝ 
-                       ██║╚██╔╝██║╚════╝██║███╗██║██║ ███╔╝  
-                       ██║ ╚═╝ ██║      ╚███╔███╔╝██║███████╗
-                       ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
-                                                   v 1.3$rset"
+                  
+                    
+████████╗███████╗░█████╗░███╗░░██╗░█████╗░
+╚══██╔══╝██╔════╝██╔══██╗████╗░██║██╔══██╗
+░░░██║░░░█████╗░░██║░░╚═╝██╔██╗██║██║░░██║
+░░░██║░░░██╔══╝░░██║░░██╗██║╚████║██║░░██║
+░░░██║░░░███████╗╚█████╔╝██║░╚███║╚█████╔╝
+░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚══╝░╚════╝░                               v 1.3$rset"
 echo " "                                                          
-echo -e "$red                                ▶ Coded by$grn Lovepreet Singh $red ◀$rset"
-echo -e "$red                                ⫸$ylo Technical Mundeer $red ⫷$rset"
-echo -e "$red                          ⫸$grn https://m.youtube.com/c/technicalmundeer $red⫷$rset"
+echo -e "$red                                ▶ Coded by$grn Raj Snitraj $red ◀$rset"
+echo -e "$red                                ⫸$ylo Tecno Devloper $red ⫷$rset"
+echo -e "$red                          ⫸$grn https://YouTube.com/channel/UChwd0IfIihSZdigXLeakAwA $red⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                       >>>  [ click ENTER to continue ] <<<$rset"
@@ -316,7 +317,7 @@ read simm
 cd $HOME/m-wiz
 bash m-wiz.sh
 else
-am start -a android.intent.action.VIEW -d https://m.youtube.com/c/technicalmundeer
+am start -a android.intent.action.VIEW -d  https://YouTube.com/channel/UChwd0IfIihSZdigXLeakAwA
 echo " "
 echo " "
 echo -e "$grn               ＞＞＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜＜＜＜$rset"
